@@ -1,2 +1,2 @@
 # shop
-shop of shedevro-dendofchik skins
+shop of pomoika 2  skins
