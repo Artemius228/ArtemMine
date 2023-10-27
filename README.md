@@ -1,2 +1,2 @@
-# shop
+# ArtemMine
 Сайт сервера ArtemMine
